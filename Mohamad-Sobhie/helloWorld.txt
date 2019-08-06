@@ -1,1 +1,7 @@
+<<<<<<< HEAD
 This is Nima's change
+=======
+This is my first file
+edited version
+third edit
+>>>>>>> 801ef5c08b03956f8013c3419769ce9ab283bc3a
